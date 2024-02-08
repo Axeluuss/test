@@ -38,7 +38,7 @@ Quelques questions pour découvrir l'outil GitHub :
 - Avez-vous installé l'extension `GitHub Pull Requests ans Issues` dans Visual Studio Code? Si non, installez-la à partir de l'onglet Extensions.
 
 ## Étape 3: Initialisation d'un repository local
-
+xcvfgbhjklmù
 1. Ouvrez Visual Studio Code.
 2. Utilisez la commande `Ctrl + Shift + P` (ou `Cmd + Shift + P` sur Mac) pour ouvrir la palette de commandes.
 3. Tapez "Git: Initialize Repository" et sélectionnez le dossier de votre site internet.
